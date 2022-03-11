@@ -14,5 +14,7 @@ El programa iniciara con un menú interactivo en donde se podran seleccionar alg
 
 Tras seleccionar una opción se mostraran diferentes opciones dependiendo la selección
 
-Crésitos
+
+Créditos
+
 Alfredo Parra Sánchez. Desarrollado en Java17, IntelliJ IDEA 2021.3.2 
