@@ -11,6 +11,7 @@ El programa iniciara con un menú interactivo en donde se podran seleccionar alg
 - Doctores
 - Pacientes
 - Citas
+
 Tras seleccionar una opción se mostraran diferentes opciones dependiendo la selección
 
 Crésitos
